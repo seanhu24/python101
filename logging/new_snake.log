@@ -1,0 +1,3 @@
+2017-07-09 19:27:32,986 - exampleApp - INFO - Program started
+2017-07-09 19:27:32,986 - exampleApp.otherMod2.add - INFO - adding 3 and 5 to get 8
+2017-07-09 19:27:32,986 - exampleApp - INFO - Done

@@ -1,0 +1,7 @@
+INFO:root:this is a info
+INFO:root:this is a error
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "D:/PycharmProjects/python101/logging/basicLogger2.py", line 7, in <module>
+    raise RuntimeError
+RuntimeError
